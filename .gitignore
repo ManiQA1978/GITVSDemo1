@@ -7,9 +7,11 @@ node_modules/
 /playwright/.cache/
 .vscode/
 GITVSDemo.code-workspace
-/*
-!/.git
-/.git/*
-!/.git/workflows
+.git
+# Exclude any folder use below
+# /*
+# !/.git
+# /.git/*
+# !/.git/workflows
 
 
