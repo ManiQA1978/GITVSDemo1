@@ -5,3 +5,12 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+.vscode/
+GITVSDemo.code-workspace
+.git
+/*
+!/.git
+/.git/*
+!/.git/workflows
+
+
